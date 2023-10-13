@@ -1,3 +1,4 @@
+https://bootstrap-pricing-table-nkr147.netlify.app/
 # BootstrapPricingTable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
